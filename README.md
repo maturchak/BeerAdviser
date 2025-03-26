@@ -6,3 +6,8 @@
 
  - Добавлен переключатель "Только светлое пиво"
 
+Скриншот:
+
+![Screenshot_20250326_172156](https://github.com/user-attachments/assets/18cc3c9c-1d4b-438a-b1f0-54ac23e303a2)
+
+
