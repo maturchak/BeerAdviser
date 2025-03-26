@@ -8,4 +8,6 @@
         <item>Brown</item>
         <item>Dark</item>
     </string-array>
+
+    <string name="light_beer_only">Только светлое пиво</string>
 </resources>

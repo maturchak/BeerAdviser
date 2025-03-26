@@ -4,7 +4,7 @@ plugins {
 }
 
 android {
-    namespace = "com.example.beeradviser"
+    namespace = "com.hfad.beeradviser"
     compileSdk = 35
 
     defaultConfig {
@@ -40,7 +40,6 @@ dependencies {
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
-    implementation(libs.androidx.activity)
     implementation(libs.androidx.constraintlayout)
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
